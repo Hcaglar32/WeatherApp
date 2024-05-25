@@ -1,7 +1,7 @@
 # WeatherApp
 
 <h1 align="center">Merhaba 👋 Hava durumu uygulamam sizlerle.</h1>
-<h3 align="center">React ile geliştirdiğim basit hava durumu uygulamasında vite kullandım.</h3>
+<h3 align="center">React ile geliştirdiğim basit hava durumu uygulamasında vite kullandım. Uygulamada yer alan inputa şehir adı giriyorsunuz , şehir adına göre api den gelen veriler ile 4 günlük hava durumunu listeliyor.</h3>
 
 
 <h3 align="left">Projede kullandığım teknolojiler:</h3>
